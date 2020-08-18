@@ -5,9 +5,6 @@ For(elemennt:
 
 
 
-While( tienen que cumplir condicion, siempre verdadera
-conditio_is_true)
-
 ejemplo
 
 var corredores = ["juan","maria","pedro"]
@@ -21,7 +18,7 @@ text= text+ corredores[index]+ "\n";esta No,ejemplo.
 text+=corredores[index]+"\n";esta si es abreviada
 
 }
-çconsole.log(text);
+ï¿½console.log(text);
 
 
 var corredores = ["juan","maria","pedro"]
