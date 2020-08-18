@@ -1,0 +1,11 @@
+var libros =(  "libros de texto"")
+
+var longestWord=0
+
+for (index =0; index<libros.length; i++){
+
+    if (libros[index].length>longestWord){
+
+        longestWord=libros[index].length
+    }
+}
